@@ -13,10 +13,10 @@ Every project I build pushes me to think deeper about error handling, optimizing
 `React` · `Tailwind CSS` · `JavaScript` · `HTML` · `CSS`
 
 ### **Backend**
-`Node.js` · `Express.js` · `Mongoose` · `JWT` · `bcryptjs`
+`Node.js` · `Express.js` · `Mongoose`
 
 ### **Database**
-`MongoDB` · `Mongoose ORM`
+`MongoDB` 
 
 ### **Other Skills**
 `Git & GitHub` · `REST APIs` · `Socket.io`  
