@@ -1,7 +1,7 @@
-# 👋 Hey, I'm **Shashank**
+#  Hey, I'm **Shashank**
 **Frontend + Backend Developer (MERN)** | **1st-year CSE Student** | **Building real-world apps**
 
-I enjoy creating clean UIs, powerful backend systems, and full-stack apps that solve real problems.
+I enjoy working across the stack, but backend development is where I feel strongest. I’m confident in writing clean API logic, handling databases, and building powerful backend architectures that make apps fast, secure, and scalable.
 
 ---
 
