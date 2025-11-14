@@ -51,5 +51,6 @@ A modern, minimalistic Pomodoro app with **Solo Mode** + **Group Mode**, real-ti
 
 ## 📊 **GitHub Stats**
 
-![stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=Shashank-Venkatesh&show_icons=true&theme=tokyonight)
+
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=Shashank-Venkatesh&theme=tokyonight)
