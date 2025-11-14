@@ -38,14 +38,13 @@ A modern, minimalistic Pomodoro app with **Solo Mode** + **Group Mode**, real-ti
 - Improving backend skills  
 - Building better authentication flows  
 - Writing cleaner and scalable code  
-- Preparing DSA in Python for placements  
+- Learning Django
 
 ---
 
 ## 📫 **Connect With Me**
-- **LinkedIn:** https://linkedin.com/in/yourusername  
+- **LinkedIn:** [Link](https://www.linkedin.com/in/shashank-venkateshcse/)  
 - **Portfolio:** (coming soon)  
-- **Instagram:**  
 
 ---
 
