@@ -1,7 +1,9 @@
 #  Hey, I'm **Shashank**
 **Frontend + Backend Developer (MERN)** | **1st-year CSE Student** | **Building real-world apps**
 
-I enjoy working across the stack, but backend development is where I feel strongest. I’m confident in writing clean API logic, handling databases, and building powerful backend architectures that make apps fast, secure, and scalable.
+Although I enjoy crafting clean and functional UIs, backend development is the area where I feel the most confident and excited. I’m on a path to becoming a strong Backend Developer who can build scalable APIs, handle complex business logic, and design structured database models.
+I put a lot of focus on writing clean, maintainable backend code—thinking about how each endpoint interacts with the system, how data flows, how authentication is handled, and how the entire architecture behaves under load. I like building systems that aren’t just functional but also efficient, secure, and easy to extend.
+Every project I build pushes me to think deeper about error handling, optimizing queries, structuring controllers, securing routes, and building clear API flows that make the entire application stable and predictable
 
 ---
 
