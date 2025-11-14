@@ -34,7 +34,7 @@ A modern, minimalistic Pomodoro app with **Solo Mode** + **Group Mode**, real-ti
 
 ---
 
-## 🌱 **Currently Learning**
+##  **Currently Learning**
 - Improving backend skills  
 - Building better authentication flows  
 - Writing cleaner and scalable code  
@@ -43,8 +43,9 @@ A modern, minimalistic Pomodoro app with **Solo Mode** + **Group Mode**, real-ti
 ---
 
 ## 📫 **Connect With Me**
-- **LinkedIn:** [Link](https://www.linkedin.com/in/shashank-venkateshcse/)  
-- **Portfolio:** (coming soon)  
+- 🔗 **LinkedIn:** [Link](https://www.linkedin.com/in/shashank-venkateshcse/)
+- 🔗 **LeetCode** [Link](https://leetcode.com/u/Scatter_Shashank/)
+- 🔗 **Portfolio:** (coming soon)  
 
 ---
 
