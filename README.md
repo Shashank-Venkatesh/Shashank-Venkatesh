@@ -59,7 +59,5 @@ Django basics
 
 📊 GitHub Stats
 
-(All links fixed — fully working)
-
 <p align="center"> <img src="[![GitHub Streak](https://streak-stats.demolab.com/?Shashank-Venkatesh=DenverCoder1)](https://git.io/streak-stats)" /> 
-</p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Shashank-Venkatesh&theme=tokyonight&hide_border=true" /> </p>
+</p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-Venkatesh&layout=compact&theme=tokyonight" /> </p>
