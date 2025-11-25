@@ -1,61 +1,65 @@
-#  Hey, I'm **Shashank**
-**Frontend + Backend Developer (MERN)** | **2nd-year CSE Student** | **Building real-world apps**
+👋 Hey, I'm Shashank
 
-Although I enjoy crafting clean and functional UIs, backend development is the area where I feel the most confident and excited. I’m on a path to becoming a strong Backend Developer who can build scalable APIs, handle complex business logic, and design structured database models.
-I put a lot of focus on writing clean, maintainable backend code—thinking about how each endpoint interacts with the system, how data flows, how authentication is handled, and how the entire architecture behaves under load. I like building systems that aren’t just functional but also efficient, secure, and easy to extend.
-Every project I build pushes me to think deeper about error handling, optimizing queries, structuring controllers, securing routes, and building clear API flows that make the entire application stable and predictable
+Frontend + Backend Developer (MERN) | 2nd-year CSE Student
+Passionate about building scalable backend systems & real-world apps
 
----
+Although I love crafting clean and functional UIs, backend development is where I feel the most confident and excited. I’m focused on designing scalable APIs, writing maintainable logic, planning data flow, and structuring MongoDB models that keep the entire system stable.
 
-## 🚀 **Tech Stack**
+I think deeply about:
 
-### **Frontend**
-`React` · `Tailwind CSS` · `JavaScript` · `HTML` · `CSS`
+Clean architecture
 
-### **Backend**
-`Node.js` · `Express.js` · `Mongoose`
+Error handling & validation
 
-### **Database**
-`MongoDB` 
+Query optimization
 
-### **Other Skills**
-`Git & GitHub` · `REST APIs` · `Socket.io`  
-`Java (OOP)` · `Python (DSA)`  
+Authentication & authorization
 
----
+Controller–service separation
 
-## 🛠️ **Projects**
+Secure and predictable API flow
 
-### **FocusHub (MERN)**
-A modern, minimalistic Pomodoro app with **Solo Mode** + **Group Mode**, real-time chat, AI moderation & task system.  
-**Features:** Countdown timer, rooms, real-time chat, tasks, breaks, white noise, settings  
-🔗 *Repo:* [Github](https://github.com/kalviumcommunity/kalviumcommunity-Shashank_Venkatesh-s74-FocusTroop)  
-🔗 *Live:* [FocusTroop](https://focustroops.netlify.app/)
+Every project pushes me to build systems that aren’t just functional—but efficient, secure, and easy to extend.
 
----
+🚀 Tech Stack
+Frontend
 
-##  **Currently Learning**
-- Improving backend skills  
-- Building better authentication flows  
-- Writing cleaner and scalable code  
-- Learning Django
+React · Tailwind CSS · JavaScript · HTML · CSS
 
----
+Backend
 
-## 📫 **Connect With Me**
-- 🔗 **LinkedIn:** [Link](https://www.linkedin.com/in/shashank-venkateshcse/)
-- 🔗 **LeetCode** [Link](https://leetcode.com/u/Scatter_Shashank/)
-- 🔗 **Portfolio:** (coming soon)  
+Node.js · Express.js · Mongoose
 
----
+Database
 
-## 📊 **GitHub Stats**
+MongoDB
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shashank-Venkatesh&show_icons=true&theme=radical&rank_icon=github&hide_border=true" />
-</p>
+Other Skills
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashank-Venkatesh&theme=radical&hide_border=true" />
-</p>
+Git & GitHub · REST APIs · Socket.io
+Java (OOP) · Python (DSA)
 
+📘 Currently Learning
+
+Advanced backend patterns
+
+Better authentication flows
+
+Writing scalable and clean backend code
+
+Django basics
+
+📫 Connect With Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/shashank-venkateshcse/
+
+🔗 LeetCode: https://leetcode.com/u/Scatter_Shashank/
+
+🔗 Portfolio: coming soon…
+
+📊 GitHub Stats
+
+(All links fixed — fully working)
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Shashank-Venkatesh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" /> 
+</p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Shashank-Venkatesh&theme=tokyonight&hide_border=true" /> </p>
