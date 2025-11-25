@@ -76,9 +76,5 @@ A modern Pomodoro app with **Solo Mode + Group Mode**, real-time chat, AI modera
   <img src="https://streak-stats.demolab.com?user=Shashank-Venkatesh&theme=tokyonight&hide_border=true" alt="Shashank's GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-Venkatesh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
 ---
 
