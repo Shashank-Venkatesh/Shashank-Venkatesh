@@ -1,175 +1,207 @@
 <div align="center">
 
-<!-- PIXEL BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f1a,50:1a1a2e,100:16213e&height=200&section=header&text=SHASHANK.exe&fontSize=52&fontColor=00ff88&fontAlignY=40&animation=twinkling&desc=MERN%20Dev%20%7C%20Backend%20Architect%20%7C%20CSE%20%2723&descAlignY=65&descSize=16&descColor=64ffda" />
+<!-- ARCH HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:1793d1&height=220&section=header&text=shashank%40archdev&fontSize=46&fontColor=1793d1&fontAlignY=38&animation=twinkling&desc=~%2F.config%2Fwhoami%20%7C%20MERN%20Dev%20%7C%20Backend%20Architect%20%7C%20CSE%20%2723&descAlignY=62&descSize=14&descColor=c0caf5" />
 
-<!-- TYPING ANIMATION -->
+<!-- ARCH TYPING -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%3E+initializing+developer+mode...;%3E+loading+backend+superpowers...;%3E+system+ready+%E2%9C%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2800&pause=1000&color=1793D1&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=80&lines=%5Bshashank%40arch+~%5D%24+sudo+pacman+-S+backend-superpowers;%5Bshashank%40arch+~%5D%24+./build-scalable-apis.sh;%5Bshashank%40arch+~%5D%24+echo+%22btw+i+use+arch%22" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- PIXEL BADGE ROW -->
-![Status](https://img.shields.io/badge/STATUS-ONLINE-00ff88?style=for-the-badge&labelColor=0d1117&logo=statuspage&logoColor=00ff88)
-![Build](https://img.shields.io/badge/BUILD-PASSING-00e5ff?style=for-the-badge&labelColor=0d1117&logo=githubactions&logoColor=00e5ff)
-![Coffee](https://img.shields.io/badge/POWERED_BY-COFFEE-ff6b6b?style=for-the-badge&labelColor=0d1117&logo=buymeacoffee&logoColor=ff6b6b)
+<!-- ARCH BADGES -->
+![OS](https://img.shields.io/badge/OS-Arch_Linux-1793d1?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=0d1117)
+![Shell](https://img.shields.io/badge/Shell-zsh-89b4fa?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0d1117)
+![Editor](https://img.shields.io/badge/Editor-Neovim-57a143?style=for-the-badge&logo=neovim&logoColor=white&labelColor=0d1117)
+![WM](https://img.shields.io/badge/WM-i3wm-1793d1?style=for-the-badge&logo=i3&logoColor=white&labelColor=0d1117)
 
 </div>
 
 ---
 
-## ⚡ `> whoami`
+## `[shashank@arch ~]$ neofetch`
 
-```bash
-$ cat dev-profile.json
+```
+           /\              shashank@archdev
+          /  \             ---------------
+         /\   \            OS      : Arch Linux (btw)
+        /  __ _\           Role    : Full-Stack Dev (MERN)
+       / _/  \ _\          Year    : 2nd-Year CSE Student  
+      /  \    /  \         Focus   : Backend Systems & Scalable APIs
+     / _/ \  / \  \        Shell   : zsh + ohmyzsh
+    /  \   \/   \  \       Editor  : Neovim (of course)
+   / _/ \  /\   / _ \      Location: India 🇮🇳
+  /  \   \/  \ /   \ \     Status  : Shipping code & breaking things
+ /____\  /    V     \_\    
+        \/                 
+                           CPU     : Caffeine-Powered i9
+     Arch Linux            RAM     : 8GB (12 tabs + Node.js 😭)
 ```
 
-```json
-{
-  "name":       "Shashank Venkatesh",
-  "role":       "Full-Stack Developer (MERN)",
-  "year":       "2nd-Year CSE Student",
-  "superpower": "Backend Systems & Scalable APIs",
-  "status":     "Building cool things, one commit at a time 🚀",
-  "location":   "India 🇮🇳"
-}
-```
-
-> Although I love crafting clean and functional UIs, **backend development is where I feel most alive.**
-> I obsess over API design, data flow, and building systems that don't fall apart under pressure.
+> Although I love crafting clean UIs, **backend is my home.**
+> I obsess over API design, data flow, and systems that hold under pressure.
 
 ---
 
-## 🧠 `> cat core-principles.txt`
+## `[shashank@arch ~]$ cat /etc/principles.conf`
 
+```ini
+# /etc/shashank/core-philosophy.conf
+# Last modified: always
+
+[Architecture]
+separation_of_concerns    = true
+clean_code                = enforced
+controller_service_split  = always
+
+[Security]
+jwt_auth                  = implemented
+role_based_authorization  = strict
+input_validation          = all_endpoints
+
+[Performance]
+query_optimization        = enabled
+db_indexing               = planned_carefully
+error_handling            = graceful
+
+[API]
+design                    = RESTful
+documentation             = maintained
+predictability            = non-negotiable
 ```
-╔══════════════════════════════════════════════════╗
-║  [✔] Clean Architecture & Separation of Concerns ║
-║  [✔] Error Handling & Input Validation           ║
-║  [✔] Query Optimization & DB Indexing            ║
-║  [✔] JWT Auth & Role-Based Authorization         ║
-║  [✔] Controller → Service → Repository Pattern   ║
-║  [✔] Secure, Predictable, Documented APIs        ║
-╚══════════════════════════════════════════════════╝
-```
-> Every project pushes me to build systems that aren't just functional —
-> but **efficient, secure, and easy to extend.**
+
+> Every system I build must be **efficient, secure, and easy to extend.**
 
 ---
 
-## 🛠️ `> ls tech-stack/`
+## `[shashank@arch ~]$ pacman -Q | grep installed`
 
 <div align="center">
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**:: Synchronizing package databases...**
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+### frontend-pkg-group
+![React](https://img.shields.io/badge/react-18.x-61dafb?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d1117)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-3.x-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0d1117)
+![JavaScript](https://img.shields.io/badge/javascript-ES2024-f7df1e?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117)
+![HTML5](https://img.shields.io/badge/html5-latest-e34f26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117)
+![CSS3](https://img.shields.io/badge/css3-latest-1572b6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117)
 
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+**resolving dependencies...**
 
-### 🔧 Tools & Other Skills
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![Java](https://img.shields.io/badge/Java_OOP-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python_DSA-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### backend-pkg-group
+![NodeJS](https://img.shields.io/badge/nodejs-20.x-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0d1117)
+![Express](https://img.shields.io/badge/express-4.x-ffffff?style=for-the-badge&logo=express&logoColor=white&labelColor=0d1117)
+![Mongoose](https://img.shields.io/badge/mongoose-7.x-880000?style=for-the-badge&logo=mongoose&logoColor=white&labelColor=0d1117)
+![MongoDB](https://img.shields.io/badge/mongodb-7.x-00ed64?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d1117)
+
+**checking conflicts...**
+
+### tools-pkg-group
+![Git](https://img.shields.io/badge/git-latest-f05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
+![SocketIO](https://img.shields.io/badge/socket.io-4.x-010101?style=for-the-badge&logo=socket.io&logoColor=white&labelColor=0d1117)
+![Java](https://img.shields.io/badge/java--oop-21.x-ed8b00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d1117)
+![Python](https://img.shields.io/badge/python--dsa-3.x-3776ab?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
+
+**:: All packages installed successfully (no conflicts found)**
 
 </div>
 
 ---
 
-## 🚀 `> ./run projects`
+## `[shashank@arch ~]$ ls -la ~/projects/`
 
-### 🔥 FocusHub — Pomodoro Productivity App `[MERN STACK]`
+### `drwxr-xr-x  FocusHub/`  — Pomodoro Productivity App
 
 ```
-┌──────────────────────────────────────────────────────────┐
-│  ██████   ██████╗  ██████╗██╗   ██╗███████╗              │
-│  ██      ██╔═══██╗██╔════╝██║   ██║██╔════╝              │
-│  █████   ██║   ██║██║     ██║   ██║███████╗              │
-│  ██╔     ██║   ██║██║     ██║   ██║╚════██║              │
-│  ██║     ╚██████╔╝╚██████╗╚██████╔╝███████║              │
-│                               SyncTroop 🔥               │
-└──────────────────────────────────────────────────────────┘
+:: Package      : focushub-mern-git
+:: Version      : 2.0.0
+:: Description  : Pomodoro app w/ Solo+Group mode, real-time chat & AI moderation
+:: URL          : https://focustroops.netlify.app/
+:: License      : MIT
+:: Depends on   : react nodejs express mongodb socket.io
+:: Status       : [####################] DEPLOYED ✓
 ```
 
-A modern Pomodoro app with **Solo Mode + Group Mode**, real-time chat, AI moderation, task management, and a minimal UI.
+```
+╔═══════════════════════════════════════════════════════╗
+║  ██████╗  ██████╗  ██████╗██╗   ██╗███████╗           ║
+║  ██╔══██╗██╔═══██╗██╔════╝██║   ██║██╔════╝           ║
+║  █████╔╝ ██║   ██║██║     ██║   ██║███████╗           ║
+║  ██╔══██╗██║   ██║██║     ██║   ██║╚════██║           ║
+║  ██║  ██║╚██████╔╝╚██████╗╚██████╔╝███████║  🔥       ║
+╚═══════════════════════════════════════════════════════╝
+```
 
-| Feature | Status |
+| Module | Status |
 |---|---|
-| ⏱️ Solo & Group Timers | `SHIPPED ✓` |
-| 💬 Real-time Chat (Socket.io) | `SHIPPED ✓` |
-| ✅ Task Management | `SHIPPED ✓` |
-| 🔇 Break System & White Noise | `SHIPPED ✓` |
-| 🔑 Room Codes for Group Sessions | `SHIPPED ✓` |
+| `timers.service.js` — Solo & Group Pomodoro | `[RUNNING] ✓` |
+| `chat.gateway.js` — Real-time Socket.io Chat | `[RUNNING] ✓` |
+| `tasks.controller.js` — Task Management | `[RUNNING] ✓` |
+| `session.service.js` — Break System & White Noise | `[RUNNING] ✓` |
+| `rooms.middleware.js` — Room Codes for Groups | `[RUNNING] ✓` |
 
-🔗 **Repo:** [SyncTroop](https://github.com/Shashank-Venkatesh/SyncTroop)
-🌐 **Live:** [synctroop.vercel.app](https://synctroop.vercel.app/)
+🔗 **Source:** [github.com/.../FocusTroop](https://github.com/kalviumcommunity/kalviumcommunity-Shashank_Venkatesh-s74-FocusTroop) &nbsp;|&nbsp; 🌐 **Live:** [focustroops.netlify.app](https://focustroops.netlify.app/)
 
 ---
 
-### 🔬 Mathesar — Open Source DB Interface `[OSS CONTRIBUTION]`
+### `drwxr-xr-x  mathesar/`  — OSS Contribution
 
 ```
-┌──────────────────────────────────────────────────────────┐
-│  Contributor @ mathesar-foundation/mathesar               │
-│  ⭐ 4.9k Stars  |  🍴 472 Forks  |  Public Beta          │
-│  Stack: Svelte · TypeScript · Python · PostgreSQL         │
-│  "Intuitive spreadsheet-like interface for Postgres"      │
-└──────────────────────────────────────────────────────────┘
+:: Package      : mathesar-foundation-git
+:: Version      : 0.9.0 (latest)
+:: Description  : Intuitive spreadsheet-like interface for Postgres — 100% OSS
+:: URL          : https://github.com/mathesar-foundation/mathesar
+:: Stars        : ⭐ 4.9k   Forks: 🍴 472   Stage: Public Beta
+:: Stack        : svelte typescript python django postgresql plpgsql
+:: Role         : Contributor
+:: Status       : [####################] MERGED ✓
 ```
 
-Contributed to a 100% open-source, self-hosted Postgres database UI used in production. Built with Django + Svelte, the project taught me large-scale architecture, OSS workflows, and cross-stack collaboration at a professional level.
+Contributing to a production-grade, self-hosted Postgres UI with ~19k commits. Working across a full Python/Django backend and Svelte/TypeScript frontend taught me real-world OSS workflows, code review culture, and large-scale architecture thinking.
 
 🔗 **Repo:** [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar)
 
 ---
 
-## 📡 `> ping learning-radar`
+## `[shashank@arch ~]$ htop --filter=learning`
 
 ```
-[████████████████░░░░] Advanced Backend Patterns
-[██████████████░░░░░░] Auth Flows & OAuth
-[████████████░░░░░░░░] Scalable Architecture Patterns
-[██████░░░░░░░░░░░░░░] Dev Ops
+PID   NAME                         CPU%   PROGRESS
+───────────────────────────────────────────────────────────
+001   advanced-backend-patterns    HIGH   [████████████████░░░░]  80%
+002   auth-flows-oauth             HIGH   [██████████████░░░░░░]  70%
+003   scalable-architecture        MED    [████████████░░░░░░░░]  60%
+004   django-basics                LOW    [██████░░░░░░░░░░░░░░]  30%
+───────────────────────────────────────────────────────────
+Uptime: 2 years   Tasks: always shipping   Load: ███ high
 ```
-
-> Always shipping. Always learning. Always improving.
 
 ---
 
-## 📊 `> cat github-stats.log`
+## `[shashank@arch ~]$ cat ~/github-stats.log`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shashank-Venkatesh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00e5ff&text_color=c9d1d9&ring_color=00ff88" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Shashank-Venkatesh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=1793d1&icon_color=89b4fa&text_color=c0caf5&ring_color=1793d1" height="175" alt="GitHub Stats" />
 
-<img src="https://streak-stats.demolab.com?user=Shashank-Venkatesh&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ff88&ring=00e5ff&fire=ff6b6b&currStreakLabel=00ff88" height="180" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Shashank-Venkatesh&hide_border=true&background=0d1117&stroke=1793d1&ring=1793d1&fire=89b4fa&currStreakLabel=1793d1&sideLabels=c0caf5&dates=6e738d&currStreakNum=c0caf5&sideNums=c0caf5" height="175" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-Venkatesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" height="180" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-Venkatesh&layout=compact&hide_border=true&bg_color=0d1117&title_color=1793d1&text_color=c0caf5&langs_count=6" height="175" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 📡 `> connect --social`
+## `[shashank@arch ~]$ nmcli connect social`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-venkateshcse/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Scatter_Shashank/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shashank-Venkatesh)
-![Portfolio](https://img.shields.io/badge/Portfolio-coming_soon...-444?style=for-the-badge&logo=vercel&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-shashank--venkateshcse-1793d1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/shashank-venkateshcse/)
+[![LeetCode](https://img.shields.io/badge/leetcode-Scatter__Shashank-ffa116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117)](https://leetcode.com/u/Scatter_Shashank/)
+[![GitHub](https://img.shields.io/badge/github-Shashank--Venkatesh-89b4fa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Shashank-Venkatesh)
+![Portfolio](https://img.shields.io/badge/portfolio-initializing...-6e738d?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)
 
 </div>
 
@@ -177,17 +209,21 @@ Contributed to a 100% open-source, self-hosted Postgres database UI used in prod
 
 <div align="center">
 
-<!-- PIXEL SNAKE ANIMATION -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 
 <br/>
 
-<!-- VISITOR COUNTER -->
-![Profile Views](https://komarev.com/ghpvc/?username=Shashank-Venkatesh&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS&base=100)
+![Profile Views](https://komarev.com/ghpvc/?username=Shashank-Venkatesh&style=for-the-badge&color=1793d1&label=PROFILE+VIEWS&labelColor=0d1117&base=100)
 
 <br/>
 
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f1a&height=120&section=footer&text=&fontSize=0" />
+```
+[shashank@arch ~]$ shutdown -h now
+:: Saving session...
+:: Syncing disks... done.
+:: btw i use arch
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1793d1,50:1a1f2e,100:0d1117&height=130&section=footer" />
 
 </div>
