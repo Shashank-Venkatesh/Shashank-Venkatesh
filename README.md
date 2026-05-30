@@ -114,7 +114,7 @@ A modern Pomodoro app with **Solo Mode + Group Mode**, real-time chat, AI modera
 | 🔑 Room Codes for Group Sessions | `SHIPPED ✓` |
 
 🔗 **Repo:** [SyncTroop](https://github.com/Shashank-Venkatesh/SyncTroop)
-🌐 **Live:** [focustroops.netlify.app](https://synctroop.vercel.app/)
+🌐 **Live:** [synctroop.vercel.app](https://synctroop.vercel.app/)
 
 ---
 
