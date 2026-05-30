@@ -94,12 +94,12 @@ $ cat dev-profile.json
 
 ```
 ┌──────────────────────────────────────────────────────────┐
-│  ██████╗  ██████╗  ██████╗██╗   ██╗███████╗              │
-│  ██╔══██╗██╔═══██╗██╔════╝██║   ██║██╔════╝              │
-│  █████╔╝ ██║   ██║██║     ██║   ██║███████╗              │
-│  ██╔══██╗██║   ██║██║     ██║   ██║╚════██║              │
-│  ██║  ██║╚██████╔╝╚██████╗╚██████╔╝███████║              │
-│                               FocusTroop 🔥              │
+│  ██████   ██████╗  ██████╗██╗   ██╗███████╗              │
+│  ██      ██╔═══██╗██╔════╝██║   ██║██╔════╝              │
+│  █████   ██║   ██║██║     ██║   ██║███████╗              │
+│  ██╔     ██║   ██║██║     ██║   ██║╚════██║              │
+│  ██║     ╚██████╔╝╚██████╗╚██████╔╝███████║              │
+│                               SyncTroop 🔥               │
 └──────────────────────────────────────────────────────────┘
 ```
 
@@ -113,8 +113,8 @@ A modern Pomodoro app with **Solo Mode + Group Mode**, real-time chat, AI modera
 | 🔇 Break System & White Noise | `SHIPPED ✓` |
 | 🔑 Room Codes for Group Sessions | `SHIPPED ✓` |
 
-🔗 **Repo:** [Shashank_Venkatesh-s74-FocusTroop](https://github.com/kalviumcommunity/kalviumcommunity-Shashank_Venkatesh-s74-FocusTroop)
-🌐 **Live:** [focustroops.netlify.app](https://focustroops.netlify.app/)
+🔗 **Repo:** [SyncTroop](https://github.com/Shashank-Venkatesh/SyncTroop)
+🌐 **Live:** [focustroops.netlify.app](https://synctroop.vercel.app/)
 
 ---
 
@@ -141,7 +141,7 @@ Contributed to a 100% open-source, self-hosted Postgres database UI used in prod
 [████████████████░░░░] Advanced Backend Patterns
 [██████████████░░░░░░] Auth Flows & OAuth
 [████████████░░░░░░░░] Scalable Architecture Patterns
-[██████░░░░░░░░░░░░░░] Django Basics
+[██████░░░░░░░░░░░░░░] Dev Ops
 ```
 
 > Always shipping. Always learning. Always improving.
