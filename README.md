@@ -34,7 +34,7 @@
    / _/ \  /\   / _ \      Location: India 🇮🇳
   /  \   \/  \ /   \ \     Status  : Shipping code & breaking things
  /____\  /    V     \_\    
-        \/                 
+                         
                            CPU     : Caffeine-Powered i9
      Arch Linux            RAM     : 8GB (12 tabs + Node.js 😭)
 ```
@@ -127,10 +127,10 @@ predictability            = non-negotiable
 ```
 ╔═══════════════════════════════════════════════════════╗
 ║  ██████╗  ██████╗  ██████╗██╗   ██╗███████╗           ║
-║  ██╔══██╗██╔═══██╗██╔════╝██║   ██║██╔════╝           ║
-║  █████╔╝ ██║   ██║██║     ██║   ██║███████╗           ║
-║  ██╔══██╗██║   ██║██║     ██║   ██║╚════██║           ║
-║  ██║  ██║╚██████╔╝╚██████╗╚██████╔╝███████║  🔥       ║
+║  ██      ██╔═══██╗██╔════╝██║   ██║██╔════╝           ║
+║  █████╔  ██║   ██║██║     ██║   ██║███████╗           ║
+║  ██╔     ██║   ██║██║     ██║   ██║╚════██║           ║
+║  ██║     ╚██████╔╝╚██████╗╚██████╔╝███████║  🔥       ║
 ╚═══════════════════════════════════════════════════════╝
 ```
 
@@ -142,7 +142,7 @@ predictability            = non-negotiable
 | `session.service.js` — Break System & White Noise | `[RUNNING] ✓` |
 | `rooms.middleware.js` — Room Codes for Groups | `[RUNNING] ✓` |
 
-🔗 **Source:** [github.com/.../FocusTroop](https://github.com/kalviumcommunity/kalviumcommunity-Shashank_Venkatesh-s74-FocusTroop) &nbsp;|&nbsp; 🌐 **Live:** [focustroops.netlify.app](https://focustroops.netlify.app/)
+🔗 **Source:** [github.com/.../FocusTroop](https://github.com/Shashank-Venkatesh/SyncTroop) &nbsp;|&nbsp; 🌐 **Live:** [synctroop.vercel.app](https://synctroop.vercel.app/)
 
 ---
 
@@ -171,9 +171,9 @@ Contributing to a production-grade, self-hosted Postgres UI with ~19k commits. W
 PID   NAME                         CPU%   PROGRESS
 ───────────────────────────────────────────────────────────
 001   advanced-backend-patterns    HIGH   [████████████████░░░░]  80%
-002   auth-flows-oauth             HIGH   [██████████████░░░░░░]  70%
+002   auth-flows-oauth             HIGH   [████████████████░░░░]  80%
 003   scalable-architecture        MED    [████████████░░░░░░░░]  60%
-004   django-basics                LOW    [██████░░░░░░░░░░░░░░]  30%
+004   Dev Ops                      LOW    [██████░░░░░░░░░░░░░░]  30%
 ───────────────────────────────────────────────────────────
 Uptime: 2 years   Tasks: always shipping   Load: ███ high
 ```
